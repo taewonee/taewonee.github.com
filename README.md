@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
 ![](https://badgen.net/rubygems/dt/jekyll-yamt)
@@ -154,3 +155,6 @@ Images from [Unsplash](https://unsplash.com/).
 
 ## License
 The theme is available as open source under the terms of the [MIT License](https://github.com/PandaSekh/Jekyll-YAMT/blob/master/LICENSE.txt).
+=======
+# taewonee.github.com
+>>>>>>> dcc05a87d4959b239119afc232334c97c5b65d63
