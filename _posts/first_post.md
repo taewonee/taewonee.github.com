@@ -46,6 +46,7 @@ Compare Struct를 다루기
         return a[1] > b[1];
     }
 };
+```
  
 
 ```
