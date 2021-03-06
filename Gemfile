@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 gemspec
 
+gem 'jekyll-admin', group: :jekyll_plugins
 gem 'jekyll'
 
 gem 'wdm', '>= 0.1.0'
