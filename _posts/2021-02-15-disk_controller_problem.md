@@ -1,4 +1,10 @@
+---
 
+layout: post
+
+title: Disk controller problem
+
+---
 
 Programmars 디스크 컨트롤러 문제
 

@@ -1,10 +1,10 @@
 # Site settings
 title: Taewonee Tech Blog
-description: "Yet Another Minimal Theme"
+description: "Problem Solving & C++ details"
 url:  "https://taewonee.github.io" # Actual base url of the website
 baseurl: "/blog"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
+  name: "taewonee"
   email: "alessiofranceschi2@gmail.com"
   url: "https://alessiofranceschi.me"
 permalink: /:year/:month/:day/:title:output_ext

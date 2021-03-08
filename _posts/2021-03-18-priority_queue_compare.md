@@ -1,3 +1,11 @@
+---
+
+layout: post
+
+title: Priority Queue compare class
+
+---
+
 custom type(class) 에 대해서 priority queue의 compare를 어떻게 할 수 있을지 한 번 알아보았다.
 
 pair<int, int>로 2d array의 좌표를 저장하고, 2d array 값을 참조하여 비교하려 했으나, struct compare의 overload를 할 떄 2d array에 접근할 수 없어서
